@@ -1,0 +1,12 @@
+com\minipro2\minipro2\repository\EligibilityDetailsRepo.class
+com\minipro2\minipro2\request\SearchRequest.class
+com\minipro2\minipro2\response\SearchResponse.class
+com\minipro2\minipro2\controller\ReportsRestController.class
+com\minipro2\minipro2\config\SwaggerConfig.class
+com\minipro2\minipro2\constants\AppConstants.class
+com\minipro2\minipro2\Minipro2Application.class
+com\minipro2\minipro2\model\EligibilityDetails.class
+com\minipro2\minipro2\service\Impl\ReportsServiceImpl.class
+com\minipro2\minipro2\config\AppProperties.class
+com\minipro2\minipro2\runner\AppRunner.class
+com\minipro2\minipro2\service\ReportsService.class
